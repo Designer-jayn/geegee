@@ -23,7 +23,6 @@ html, body {
 } */
 
 
-s
 
 .contents img{
     display: block;
@@ -34,6 +33,7 @@ s
     left: 50%;
     top: 0;
     transform: translateX(-50%);
+    
 }
 
 .ex_img{
