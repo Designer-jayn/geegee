@@ -17,10 +17,10 @@ html, body {
     width: 100vw;
 }
 
-.b01{
+/* .b01{
     height: 2488px;
     background: #f0f0f0;
-}
+} */
 
 
 s
@@ -36,3 +36,17 @@ s
     transform: translateX(-50%);
 }
 
+.ex_img{
+    position: absolute;
+    top: 1464px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.ex_img img:nth-child(1){
+    margin-bottom: 271px;
+}
+
+.ex_img img:nth-child(2){
+    margin-bottom: 246px;
+}
