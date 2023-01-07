@@ -37,17 +37,17 @@ html, body {
     
 }
 
-.ex_img{
+.client_video{
     position: absolute;
-    top: 1490px;
+    top: 1492px;
     left: 50%;
     transform: translateX(-50%);
 }
 
-.ex_img img:nth-child(1){
-    margin-bottom: 247px;
+.client_video video:nth-child(1){
+    margin-bottom: 245px;
 }
 
-.ex_img img:nth-child(2){
-    margin-bottom: 252px;
+.client_video video:nth-child(2){
+    margin-bottom: 248px;
 }
