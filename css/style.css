@@ -39,13 +39,13 @@ html, body {
 
 .client_video{
     position: absolute;
-    top: 1492px;
+    top: 1495px;
     left: 50%;
     transform: translateX(-50%);
 }
 
 .client_video video:nth-child(1){
-    margin-bottom: 245px;
+    margin-bottom: 243px;
 }
 
 .client_video video:nth-child(2){
